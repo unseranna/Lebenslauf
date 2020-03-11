@@ -3,6 +3,10 @@
   margin-left: 1em;
 }
 
+.titel{
+  letter-spacing: 0.1em
+}
+
 .name{
   font-size:40px;
 }
