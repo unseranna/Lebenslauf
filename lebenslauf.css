@@ -115,9 +115,10 @@ a{
   width: 0;
   z-index: 1;
   left: 30px;
-  border: medium solid;
+  border: medium solid #D0EFFC;
   border-width: 10px 10px 10px 0;
-  border-color: #D0EFFC;
+  border-color: transparent #D0EFFC transparent transparent;
+  
 }
 
 .right::after {
